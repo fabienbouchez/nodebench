@@ -1,0 +1,25 @@
+{
+  "name": "@fbouchez/nodebench",
+  "version": "0.0.5",
+  "description": "benchmark tool to evaluate node performance on a system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "./index.js",
+  "keywords": [
+    "benchmark",
+    "performance",
+    "cpu",
+    "node",
+    "os",
+    "hardware",
+    "memory"
+  ],
+  "author": "Fabien Bouchez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabienbouchez/nodebench.git"
+  }
+}
